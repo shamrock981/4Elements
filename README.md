@@ -12,6 +12,7 @@ Things that need to be included:
 1. About 
 2. Contact form page
 3. Soundcloud integrated page 
-4. Events Page 
 
-Login/Username for staff to edit events page. 
+  
+
+
